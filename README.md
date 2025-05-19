@@ -1,2 +1,2 @@
 # project-phfs
-Portable Hydroponics Farming System
+Portable Hydroponics Farming System from team RoboYogies.
